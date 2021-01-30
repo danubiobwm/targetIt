@@ -28,18 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67c1013e-d40b-4888-b7dc-5e6c1e44c7c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/cache.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +196,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612024700221</updated>
-      <workItem from="1612024702273" duration="5586000" />
+      <workItem from="1612024702273" duration="7788000" />
     </task>
     <servers />
   </component>
@@ -230,10 +219,10 @@
       <screen x="0" y="27" width="1366" height="705" />
     </state>
     <state x="438" y="56" width="480" height="653" key="#com.intellij.ide.util.MemberChooser/0.27.1366.705@0.27.1366.705" timestamp="1612024782381" />
-    <state x="295" y="53" width="773" height="678" key="search.everywhere.popup" timestamp="1612028064349">
+    <state x="295" y="53" width="773" height="678" key="search.everywhere.popup" timestamp="1612032205887">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
-    <state x="295" y="53" width="773" height="678" key="search.everywhere.popup/0.27.1366.705@0.27.1366.705" timestamp="1612028064349" />
+    <state x="295" y="53" width="773" height="678" key="search.everywhere.popup/0.27.1366.705@0.27.1366.705" timestamp="1612032205887" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
